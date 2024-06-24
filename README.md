@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hardware and Software development
 - 🌱 I’m currently learning Web-App development: CS50W
 - 📫 How to reach me info@brose-engineering.de
-- 😄 Pronouns: ... work in progress ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ... work in progress ...
 
 <!---
